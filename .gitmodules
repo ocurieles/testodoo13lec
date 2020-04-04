@@ -1,0 +1,4 @@
+[submodule "ocurieles/odoolec"]
+	path = ocurieles/odoolec
+	url = git@github.com:ocurieles/odoolec.git
+	branch = develop
